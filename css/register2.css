@@ -1,0 +1,173 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  background-repeat: no-repeat;
+}
+
+hr {
+  border-top: 2px solid black;
+}
+
+#link {
+  padding-bottom: 10px;
+}
+
+#title {
+  padding-top: 30px !important;
+}
+
+#section {
+  box-shadow: 11px 12px 12px 6px rgba(112, 88, 88, 0.83);
+  -webkit-box-shadow: 11px 12px 12px 6px rgba(112, 88, 88, 0.83);
+  -moz-box-shadow: 11px 12px 12px 6px rgba(112, 88, 88, 0.83);
+  /* margin-left: 200px !important;
+  margin-right: 200px !important; */
+}
+
+/* Nombre */
+
+.errorMessage {
+  color: red;
+  display: none;
+}
+.errorMessage_activo {
+  color: red;
+  display: block;
+}
+
+.correctMessage {
+  color: green;
+  display: none;
+}
+.correctMessage_activo {
+  color: green;
+  display: block;
+}
+
+/* email  */
+
+.emailError {
+  color: red;
+  display: none;
+}
+.emailError_activo {
+  color: red;
+  display: block;
+}
+
+.emailCorrect {
+  color: green;
+  display: none;
+}
+.emailCorrect_activo {
+  color: green;
+  display: block;
+}
+
+/* pw */
+
+.pwError {
+  color: red;
+  display: none;
+}
+.pwError_activo {
+  color: red;
+  display: block;
+}
+
+.pwCorrect {
+  color: green;
+  display: none;
+}
+.pwCorrect_activo {
+  color: green;
+  display: block;
+}
+
+/* repeat pw */
+
+.pw2Error {
+  color: red;
+  display: none;
+}
+.pw2Error_activo {
+  color: red;
+  display: block;
+}
+
+.pw2Correct {
+  color: green;
+  display: none;
+}
+.pw2Correct_activo {
+  color: green;
+  display: block;
+}
+
+/* ZIP */
+
+.zipError {
+  color: red;
+  display: none;
+}
+.zipError_activo {
+  color: red;
+  display: block;
+}
+
+.zipCorrect {
+  color: green;
+  display: none;
+}
+.zipCorrect_activo {
+  color: green;
+  display: block;
+}
+
+/* Address */
+
+.addressError {
+  color: red;
+  display: none;
+}
+.addressError_activo {
+  color: red;
+  display: block;
+}
+
+.addressCorrect {
+  color: green;
+  display: none;
+}
+.addressCorrect_activo {
+  color: green;
+  display: block;
+}
+
+/* city */
+
+.cityError {
+  color: red;
+  display: none;
+}
+.cityError_activo {
+  color: red;
+  display: block;
+}
+
+.cityCorrect {
+  color: green;
+  display: none;
+}
+.cityCorrect_activo {
+  color: green;
+  display: block;
+}
