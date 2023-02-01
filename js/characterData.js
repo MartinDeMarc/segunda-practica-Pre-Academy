@@ -44,7 +44,7 @@ const dataCharacters = async () => {
 </div>
       `;
 
-    listEpisodeDetail(resul);
+  
 
     containerCharacters.innerHTML += templateHtml;
   } catch (error) {
