@@ -69,21 +69,7 @@ const redirectToCharacterData = (characterImg) => {
   });
 };
 
-// Details
 
-// export const listEpisodeDetail = (resul) => {
-//   const cardData = document.querySelector(".cardData");
-
-//   resul.forEach((element) => {
-//     fetch(element)
-//       .then((res) => res.json())
-//       .then((resul) => {
-//         let $li = document.createElement("li");
-//         $li.textContent = ` - ${resul.name}`;
-//         cardData.append($li);
-//       });
-//   });
-// };
 
 // Next clicking
 let counter = 1;
