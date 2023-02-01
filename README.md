@@ -6,7 +6,7 @@ _Espero que los disfruten :)_
 
 _Aquí estaré dejando el enlace de la página_
 
-- (https://berlin-digital.vercel.app/) -
+- (https://segunda-practica-pre-academy.vercel.app/) -
 
 ## Despliegue 📦
 
